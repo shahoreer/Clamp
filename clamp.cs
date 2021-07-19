@@ -12,6 +12,6 @@ class HelloWorld {
           return value;
       if(value < min)
           return min;
-          return max;
+      return max;
   }
 }
