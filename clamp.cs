@@ -1,5 +1,5 @@
     // March 22 -2021 (14 years)
-    // Project : Clamp a number
+    // Project: Clamp
 
 using System;
 class HelloWorld {
